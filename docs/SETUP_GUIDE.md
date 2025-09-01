@@ -1,0 +1,1 @@
+Use Render for backend and Vercel for frontend. See chat for detailed steps.
